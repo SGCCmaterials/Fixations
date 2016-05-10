@@ -19,7 +19,7 @@ In 'video_database.mat', you can find
     '2: VideoIndex (see video_names_list)'
     '3: Timestamp (milliseconds after image display)'
     '4: GazeDuration'
-    '5-6: fixation position (take upper-lift corner as origin )'
+    '5-6: fixation position (take upper-left corner as origin )'
    
 
 
