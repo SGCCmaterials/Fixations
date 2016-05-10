@@ -23,7 +23,7 @@ In 'video_database.mat', you can find
    
 
 
-As a test, you can run 'demo.m' to view the heat-map series of the target video.  
+As a test, you can run 'demo.m' to view the heat-map series of the target sequences.  
 
 Should you have any queries, please contact Maixu@buaa.edu.cn
 
