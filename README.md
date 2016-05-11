@@ -1,5 +1,3 @@
-Database from Mai Xu, Lai Jiang, Xin Deng in Beihang University(2015). 
-
 This database contains the fixation data of 15 standard video sequences of HEVC.
 
 In 'video_database.mat', you can find
